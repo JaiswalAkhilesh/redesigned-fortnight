@@ -1,1 +1,1 @@
-# redesigned-fortnight
+Information about this project
